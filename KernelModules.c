@@ -7,7 +7,7 @@
 #include <ams/param.h>
 
 #define BUFFER_SIZE 128
-#define PROC_NAME "seconds"
+#define PROC_NAME "second
 
 unsigned long start_jiffies = 0;
 
